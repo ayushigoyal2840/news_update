@@ -12,4 +12,6 @@ code {
     monospace;
 }
 
-
+code{
+  color: rgb(221, 42, 42);
+}

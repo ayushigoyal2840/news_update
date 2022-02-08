@@ -9,7 +9,7 @@ const useStyles = makeStyles({
         height:70
     },
     logo: {
-        height: 55,
+        height: 45,
         margin: 'auto'
     },
     menu: {
